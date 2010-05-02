@@ -1,0 +1,3 @@
+[submodule "frameworks/remote_reporter"]
+	path = frameworks/remote_reporter
+	url = git://github.com/ColinCampbell/RemoteReporter
